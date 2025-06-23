@@ -79,3 +79,17 @@ Features Implemented
 ->Filterable/Sortable Tables
 -> Modular Code Structure
 ->Responsive UI
+
+/backend
+  ├── controllers/
+  ├── routes/
+  ├── models/
+  ├── middleware/
+  └── config/
+  
+/frontend
+  ├── components/
+  ├── pages/
+  ├── services/
+  └── App.jsx
+MIT License
