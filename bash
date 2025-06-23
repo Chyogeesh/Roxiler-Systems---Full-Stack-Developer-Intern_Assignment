@@ -13,3 +13,8 @@ npx sequelize db:seed:all
 
 # Start server
 npm run dev
+cd frontend
+npm install
+
+# Start dev server
+npm start
